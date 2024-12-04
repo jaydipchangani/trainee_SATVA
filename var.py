@@ -1,5 +1,5 @@
 class Car:
-    wheels=4 #class var
+    wheels=4 #class and static var
     
     def __init__(self):
         self.mil=10
